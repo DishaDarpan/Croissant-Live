@@ -1,0 +1,10 @@
+body {
+  background: rgb(243, 225, 145);
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+  color: blueviolet;
+}
