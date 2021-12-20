@@ -1,5 +1,6 @@
 body {
   background: rgb(243, 225, 145);
+  text-align: center;
 }
 h1 {
   text-align: center;
@@ -7,4 +8,9 @@ h1 {
 p {
   text-align: justify;
   color: blueviolet;
+}
+.links {
+  text-decoration: none;
+
+  text-align: center;
 }
